@@ -51,7 +51,7 @@ Check out the [complete documentation](https://pyqtdarktheme.readthedocs.io).
 - Latest development version
 
    ```plaintext
-   pip install git+https://github.com/5yutan5/PyQtDarkTheme.git@main
+   pip install git+https://github.com/PaulFilms/PyQtDarkTheme.git@main
    ```
 
 ## Usage
