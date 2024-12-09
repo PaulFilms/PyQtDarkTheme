@@ -45,7 +45,7 @@ Check out the [complete documentation](https://pyqtdarktheme.readthedocs.io).
 - Last released version
 
    ```plaintext
-   pip install pyqtdarktheme
+   pip install --ignore-requires-python PyQtDarkTheme
    ```
 
 - Latest development version
